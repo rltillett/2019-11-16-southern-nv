@@ -67,7 +67,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 <strong>Cost:</strong> Free. <strong>Registration:</strong> Required.
-<a href="https://google.com">Register for the Nov 16-17 Southern NV Data Carpentry Genomics Workshop here</a>.
+<a href="https://unr.az1.qualtrics.com/jfe/form/SV_2acmSgFwTSeVnmd">Register for the Nov 16-17 Southern NV Data Carpentry Genomics Workshop is now open. Register here!</a>.
 {% if page.carpentry == "swc" %}
 {% include sc/intro.html %}
 {% elsif page.carpentry == "dc" %}
