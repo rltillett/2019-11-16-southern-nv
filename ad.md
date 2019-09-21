@@ -1,3 +1,8 @@
+# Data Carpentry Genomics Workshop (Nov 16-17th 2019). Registration OPEN.
+
+**Subject:** Data Carpentry Genomics Workshop (Sep 28-29th 2019). Registration OPEN.
+
+
 Dear __________________,
 
 The Nevada Center for Bioinformatics will present **Data Carpentry Genomics**, a two-day workshop at host Nevada State College (room NSE 129) on the weekend of **Nov 16 & 17, 2019.**
